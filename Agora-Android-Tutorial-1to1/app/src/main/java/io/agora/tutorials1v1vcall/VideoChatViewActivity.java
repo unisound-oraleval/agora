@@ -389,7 +389,7 @@ public class VideoChatViewActivity extends AppCompatActivity {
         new Thread(new Runnable() {
             @Override
             public void run() {
-                AsrWebsocket.getInstance().init(getString(R.string.asr_app_key), getString(R.string.asr_app_secret), getString(R.string.asr_app_host));
+                AsrWebsocket.getInstance().init(getString(R.string.asr_app_key), getString(R.string.asr_app_secret));
                 AsrWebsocket.getInstance().start(new AsrResultListener() {
                     @Override
                     public void onAsrResult(final String s) {

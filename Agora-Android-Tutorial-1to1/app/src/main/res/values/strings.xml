@@ -11,6 +11,5 @@
     <string name="agora_access_token">006673c64ba4d6142818366f007e59464a6IADqPz846P11Ud9M/ednuup8BGulKsLSv1EIU6Lj6Jq9JAx+f9gAAAAAEAANYBkGekZ1XwEAAQB4RnVf</string>
     <string name="asr_app_key">ot3exwl56rbqud3zsrjds3burfimxi44ihju2vif</string>
     <string name="asr_app_secret">e12974db6bda75ba4bfce5d8dacccd9a</string>
-    <string name="asr_app_host">wss://ws-rtasr.hivoice.cn/v1/ws?</string>
     <string name="eval_app_key">ot3exwl56rbqud3zsrjds3burfimxi44ihju2vif@e12974db6bda75ba4bfce5d8dacccd9a</string>
 </resources>
