@@ -23,7 +23,7 @@ implementation 'com.alibaba:fastjson:1.2.73'
 
 > 4.修改配置
 
-> 修改app\src\main\res\values文件夹下面strings.xml 相应的asr_app_key、asr_app_secret和eval_app_key， key和Secret 从https://ai.unisound.com/ 注册用户并创建应用，获取对应的appkey和AppSecret，评测的eval_app_key传入方式是AppKey@AppSecret形式 ，例如注册用户后创建的的应用信息如下：
+> 修改app\src\main\res\values文件夹下面strings.xml 相应的asr_app_key、asr_app_secret和eval_app_key，评测的eval_app_key传入方式是AppKey@AppSecret形式 ，例如注册用户后创建的的应用信息如下：
 那么输入的评测的eval_app_key传入方式是appkey@AppSecret形式
 
 ## 二、项目sdk使用说明
