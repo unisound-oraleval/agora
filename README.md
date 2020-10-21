@@ -1,5 +1,15 @@
 # sdk使用说明
 
+> 文件夹及文件说明：
+
+> Agora-Android-Tutorial-1to1-ASR 文件夹是语音识别demo
+
+> Agora-Android-Tutorial-1to1-EVAL文件夹是语音评测demo
+
+> unisound libs文件夹下是云知声jar包，jar包同时支持识别和评测能力
+
+> asr.apk是编译好的识别demo，eval.apk是编译好的评测demo，demo使用时需要两个手机，由于token 24小时失效，运行前需要修改token
+
 ## 一、环境准备
 
 > 1.把工程导入Android studio；
