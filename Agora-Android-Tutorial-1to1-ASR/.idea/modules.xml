@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Agora-Android-Tutorial-1to1-ASR.iml" filepath="$PROJECT_DIR$/.idea/modules/Agora-Android-Tutorial-1to1-ASR.iml" group="Agora-Android-Tutorial-1to1-ASR" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agora-Agora-Android-Tutorial-1to1-ASR.iml" filepath="$PROJECT_DIR$/.idea/modules/agora-Agora-Android-Tutorial-1to1-ASR.iml" group="Agora-Android-Tutorial-1to1-ASR" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Agora-Android-Tutorial-1to1-ASR/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logger/logger.iml" filepath="$PROJECT_DIR$/.idea/modules/logger/logger.iml" group="Agora-Android-Tutorial-1to1-ASR/logger" />
+    </modules>
+  </component>
+</project>

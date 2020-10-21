@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agora Tutorial</string>
+
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <string name="agora_app_id">673c64ba4d6142818366f007e59464a6</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token">0063930815391ae499bbbf5f8bbfa38e3b0IABTy2HcJL70gEGAYjXPsjGXWcEZkOFKURsZbkHm39I2tQx+f9gAAAAAEAA1HXOd6CeRXwEAAQDjJ5Ff</string>
+    <string name="asr_app_key">ot3exwl56rbqud3zsrjds3burfimxi44ihju2vif</string>
+    <string name="asr_app_secret">e12974db6bda75ba4bfce5d8dacccd9a</string>
+    <string name="eval_app_key">ot3exwl56rbqud3zsrjds3burfimxi44ihju2vif@e12974db6bda75ba4bfce5d8dacccd9a</string>
+</resources>
